@@ -1,0 +1,110 @@
+[
+    {
+        "imagem": "img/xadrez.jpg",
+        "nome": "Xadrez",
+        "desc": "Xadrez é um jogo de tabuleiro estratégico que envolve dois jogadores, cada um com 16 peças, cada tipo de peça tendo movimentos específicos. O objetivo do jogo é capturar o rei do adversário. O tabuleiro é composto por 64 casas dispostas em uma grade de 8x8, alternando entre casas claras e escuras.",
+        "pecas": "Um tabuleiro, um rei, uma dama, duas torres, dois cavalos, dois bispos e oito peões.",
+        "class": "Livre",
+        "preco": "R$60,00",
+        "tipo": "fisico"
+    },
+    {
+        "imagem": "img/dominos.jpg",
+        "nome": "Dominó",
+        "desc": "Dominó é um jogo que utiliza peças retangulares divididas em duas metades, cada uma com um número de pontos, variando de 0 a 6. O objetivo do jogo é combinar as peças de acordo com os números, criando sequências nas extremidades da trilha. Ganha o jogador que conseguir colocar todas as suas peças primeiro.",
+        "pecas": "28 peças e uma bolsa para armazenamento",
+        "class": "Livre",
+        "preco": "R$20,00",
+        "tipo": "fisico"
+    },
+    {
+        "imagem": "img/damas.jpg",
+        "nome": "Damas",
+        "desc": "Damas é um jogo de tabuleiro para dois jogadores, jogado em um tabuleiro quadrado dividido em 64 casas, alternando entre claras e escuras, cada jogador começa com 12 peças. O objetivo é capturar as peças do adversário, saltando sobre as peças inimigas, desde que estejam em casas adjacentes e o espaço seguinte esteja vazio.",
+        "pecas": "Um tabuleiro, 12 peças brancas e 12 peças escuras",
+        "class": "Livre",
+        "preco": "R$30,00",
+        "tipo": "fisico"
+    },
+    {
+        "imagem": "img/ludo.jpg",
+        "nome": "Ludo",
+        "desc": "Ludo é um jogo de tabuleiro para 2 a 4 jogadores, onde o objetivo é ser o primeiro a levar todas as suas peças até a área central do tabuleiro. Cada jogador começa com 4 peças, que  devem percorrer o tabuleiro até o final de acordo com o número sorteado por um dado. Durante o jogo, os jogadores podem capturar as peças dos adversários, mandando-as de volta à base.",
+        "pecas": "Um tabuleiro, 4 peças verdes, 4 peças azuis, 4 peças vermelhas e 4 peças amarelas",
+        "class": "Livre",
+        "preco": "R$40,00",
+        "tipo": "fisico"
+    },
+    {
+        "imagem": "img/jogovelha.jpg",
+        "nome": "Jogo da velha",
+        "desc": "Jogo da Velha é um jogo de tabuleiro simples para dois jogadores, que jogam alternadamente em uma grade 3x3. Cada jogador escolhe um símbolo e deve tentar formar uma linha reta, seja na horizontal, vertical ou diagonal, com três de suas peças. O primeiro jogador a conseguir isso vence.",
+        "pecas": "Um tabuleiro, cinco peças X e cinco peças O",
+        "class": "Livre",
+        "preco": "R$30,00",
+        "tipo": "fisico"
+    },
+    {
+        "imagem": "img/uno.png",
+        "nome": "Uno",
+        "desc": "UNO é um jogo de cartas onde o objetivo é ser o primeiro a se livrar de todas as suas cartas. O jogo inclui cartas numeradas de 0 a 9 em quatro cores (vermelho, amarelo, verde e azul), além de cartas especiais como 'Compra 2', 'Reversa', 'Pule', 'Coringa' e 'Coringa +4'. Cada jogador deve combinar cartas por cor ou número. Quando um jogador fica com uma única carta na mão, ele deve gritar 'UNO', e o jogo continua até que alguém vença.",
+        "pecas": "108 cartas",
+        "class": "Livre",
+        "preco": "R$40,00",
+        "tipo": "fisico"
+    },
+    {
+        "imagem": "img/mariokart.webp",
+        "nome": "Mario Kart 8 Deluxe",
+        "desc": "Mario Kart 8 Deluxe é um jogo de corrida. O jogo apresenta uma série de personagens icônicos da franquia Mario, que competem em pistas coloridas e dinâmicas, repletas de obstáculos, rampas e itens especiais. Os jogadores podem usar itens como cascas de banana, cogumelos e raios para atrapalhar os oponentes e ganhar vantagem.",
+        "pecas": "Um disco contendo o jogo Mario Kart 8 Deluxe",
+        "class": "Livre",
+        "preco": "R$300,00",
+        "tipo": "console"
+    },
+    {
+        "imagem": "img/thelast.png",
+        "nome": "The Last of Us Part I",
+        "desc": "The Last of Us Part I é  um remake do aclamado The Last of Us (2013), com gráficos e mecânicas aprimoradas para a nova geração de consoles. Ambientado em um mundo pós-apocalíptico devastado por uma infecção fúngica, o jogo segue Joel e Ellie, dois sobreviventes, enquanto enfrentam criaturas infectadas e outros humanos hostis. O foco do jogo está na narrativa emocionalmente intensa, no desenvolvimento dos personagens e na sobrevivência em um ambiente perigoso.",
+        "pecas": "Um disco contendo o jogo The Last of Us Part I",
+        "class": "+17",
+        "preco": "R$220,00",
+        "tipo": "console"
+    },
+    {
+        "imagem": "img/uncharted.webp",
+        "nome": "Uncharted 4 A Thief's End",
+        "desc": "Uncharted é uma série de jogos de ação focada nas aventuras de Nathan Drake, um caçador de tesouros carismático e habilidoso. A série combina exploração, resolução de quebra-cabeças, combate e uma narrativa cinematográfica, com cenários exóticos e mistérios históricos. Ao longo dos jogos, Nathan Drake viaja pelo mundo em busca de artefatos raros, enfrentando inimigos, desvendando segredos e lidando com reviravoltas emocionais.",
+        "pecas": "Um disco contendo o jogo Uncharted 4 A Thief's End",
+        "class": "+16",
+        "preco": "R$120,00",
+        "tipo": "console"
+    },
+    {
+        "imagem": "img/slime.webp",
+        "nome": "Slime Rancher",
+        "desc": "Slime Rancher é um jogo de simulação e aventura onde os jogadores assumem o papel de Beatrix LeBeau, uma jovem rancher que vive em um planeta alienígena. O objetivo do jogo é capturar e criar diferentes tipos de slimes, criaturas fofas e coloridas, em um rancho. Os jogadores coletam recursos, alimentam os slimes e cuidam deles para gerar 'plorts', que podem ser vendidos para ganhar dinheiro e expandir o rancho",
+        "pecas": "Um disco contendo o jogo Slime Rancher",
+        "class": "Livre",
+        "preco": "R$90,00",
+        "tipo": "console"
+    },
+    {
+        "imagem": "img/sea.webp",
+        "nome": "Sea of Thieves",
+        "desc": "Sea of Thieves é um jogo de aventura e ação multijogador online onde os jogadores assumem o papel de piratas em um vasto mundo aberto, explorando mares, ilhas e buscando tesouros. A jogabilidade é centrada em navegação, combate naval, resolução de mistérios e enfrentamento de criaturas fantásticas, como esqueletos e monstros marinhos.",
+        "pecas": "Um disco contendo o jogo Sea of Thieves",
+        "class": "+16",
+        "preco": "R$90,00",
+        "tipo": "console"
+    },
+    {
+        "imagem": "img/party.webp",
+        "nome": "Party Animals",
+        "desc": "Party Animals é um jogo de festa multiplayer no qual os jogadores controlam adoráveis animais de pelúcia e participam de diversas competições e mini-jogos. O objetivo principal é se divertir em batalhas caóticas e engraçadas, usando habilidades simples de combate, como socos e agarrões, para derrotar os oponentes em diferentes cenários.",
+        "pecas": "Um disco contendo o jogo Party Animals",
+        "class": "Livre",
+        "preco": "R$105,00",
+        "tipo": "console"
+    }
+]

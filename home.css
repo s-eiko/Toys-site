@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Outfit", sans-serif;
+    transition: all .5s ease;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #f1debd;
+}
+
+header {
+    padding: 1rem;
+    text-align: center;
+    background-color: #320139;
+    color: #f1debd;
+}
+
+main {
+    background-color: #f1debd;
+    color: #320139;
+    padding: 1rem;
+    text-align: center;
+}
+
+img {
+    height: 15rem;
+}
+
+h2 {
+    margin: 0 0 1rem;
+}
+
+nav {
+    padding: 1rem 2rem;
+}
+
+nav a {
+    background-color: #320139;
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 6px 20px;
+    color: #f1debd;
+}
+
+nav a:hover {
+    background-color: #f1debd;
+    color: #320139;
+}
+
+.brinq {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 3rem;
+}
+
+#selector {
+    padding: 0 2rem;
+    color: #320139;
+}
+
+#selector div {
+    flex-direction: row;
+    padding: 0;
+    margin-top: 1rem;
+}
+
+#selector a {
+    text-decoration: none;
+    color: #320139;
+    border: solid 2px #320139;
+    padding: 2px 8px;
+    border-radius: 5px;
+}
+
+#selector a:hover {
+    background-color: #320139;
+    color: #f1debd;
+    border-color: #f1debd;
+}
