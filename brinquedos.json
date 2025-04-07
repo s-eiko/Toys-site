@@ -6,7 +6,12 @@
         "pecas": "Um tabuleiro, um rei, uma dama, duas torres, dois cavalos, dois bispos e oito peões.",
         "class": "Livre",
         "preco": "R$60,00",
-        "tipo": "fisico"
+        "tipo": "fisico",
+        "intro": "Xadrez é um jogo estratégico entre dois jogadores, onde o objetivo é dar xeque-mate no rei adversário. Cada jogador tem 16 peças com movimentos específicos.",
+        "imgextra": [
+            "img/xadrezextra.jpg",
+            "img/xadrezextra2.jpg"
+        ]
     },
     {
         "imagem": "img/dominos.jpg",
@@ -15,7 +20,11 @@
         "pecas": "28 peças e uma bolsa para armazenamento",
         "class": "Livre",
         "preco": "R$20,00",
-        "tipo": "fisico"
+        "tipo": "fisico",
+        "intro": "Dominó é um jogo de mesa onde os jogadores combinam peças com números iguais para se livrar delas. O objetivo é ser o primeiro a jogar todas as peças.",
+        "imgextra": [
+            "img/dominoextra.webp"
+        ]
     },
     {
         "imagem": "img/damas.jpg",
@@ -24,7 +33,12 @@
         "pecas": "Um tabuleiro, 12 peças brancas e 12 peças escuras",
         "class": "Livre",
         "preco": "R$30,00",
-        "tipo": "fisico"
+        "tipo": "fisico",
+        "intro": "Damas é um jogo de tabuleiro onde os jogadores movem peças em diagonais para capturar o adversário. Ao chegar na última linha, uma peça se torna 'dama' e ganha movimentos especiais.",
+        "imgextra": [
+            "img/damaextra.webp",
+            "img/damaextra2.webp"
+        ]
     },
     {
         "imagem": "img/ludo.jpg",
@@ -33,7 +47,12 @@
         "pecas": "Um tabuleiro, 4 peças verdes, 4 peças azuis, 4 peças vermelhas e 4 peças amarelas",
         "class": "Livre",
         "preco": "R$40,00",
-        "tipo": "fisico"
+        "tipo": "fisico",
+        "intro": "Ludo é um jogo de tabuleiro onde os jogadores movem peças com base em dados, tentando levar todas até o centro primeiro.",
+        "imgextra": [
+            "img/ludoextra.avif",
+            "img/ludoextra2.jpg"
+        ]
     },
     {
         "imagem": "img/jogovelha.jpg",
@@ -42,7 +61,12 @@
         "pecas": "Um tabuleiro, cinco peças X e cinco peças O",
         "class": "Livre",
         "preco": "R$30,00",
-        "tipo": "fisico"
+        "tipo": "fisico",
+        "intro": "Jogo da velha é um jogo simples de tabuleiro, onde dois jogadores alternam marcando X ou O em uma grade de 3x3. O objetivo é formar uma linha horizontal, vertical ou diagonal com três símbolos iguais.",
+        "imgextra": [
+            "img/velhaextra.webp",
+            "img/velhaextra2.webp"
+        ]
     },
     {
         "imagem": "img/uno.png",
@@ -51,7 +75,12 @@
         "pecas": "108 cartas",
         "class": "Livre",
         "preco": "R$40,00",
-        "tipo": "fisico"
+        "tipo": "fisico",
+        "intro": "Uno é um jogo de cartas onde os jogadores combinam cores ou números para se livrar de suas cartas, usando cartas especiais para adicionar estratégia. O objetivo é ficar sem cartas primeiro.",
+        "imgextra": [
+            "img/unoextra.jpg",
+            "img/unoextra2.webp"
+        ]
     },
     {
         "imagem": "img/mariokart.webp",
@@ -60,7 +89,8 @@
         "pecas": "Um disco contendo o jogo Mario Kart 8 Deluxe",
         "class": "Livre",
         "preco": "R$300,00",
-        "tipo": "console"
+        "tipo": "console",
+        "intro": "Mario Kart 8 Deluxe é um jogo de corrida no Nintendo Switch, onde os jogadores competem em pistas do universo Mario, usando itens especiais para ganhar vantagem."
     },
     {
         "imagem": "img/thelast.png",
@@ -69,7 +99,8 @@
         "pecas": "Um disco contendo o jogo The Last of Us Part I",
         "class": "+17",
         "preco": "R$220,00",
-        "tipo": "console"
+        "tipo": "console",
+        "intro": "The Last of Us Part I é um jogo de ação e aventura onde Joel e Ellie tentam sobreviver em um mundo pós-apocalíptico, enfrentando perigos e explorando ambientes."
     },
     {
         "imagem": "img/uncharted.webp",
@@ -78,7 +109,8 @@
         "pecas": "Um disco contendo o jogo Uncharted 4 A Thief's End",
         "class": "+16",
         "preco": "R$120,00",
-        "tipo": "console"
+        "tipo": "console",
+        "intro": "Uncharted 4 A Thief's End é um jogo de ação onde Nathan Drake embarca em uma última aventura para encontrar um tesouro perdido, com foco em exploração e combate."
     },
     {
         "imagem": "img/slime.webp",
@@ -87,7 +119,8 @@
         "pecas": "Um disco contendo o jogo Slime Rancher",
         "class": "Livre",
         "preco": "R$90,00",
-        "tipo": "console"
+        "tipo": "console",
+        "intro": "Slime Rancher é um jogo de simulação onde os jogadores capturam e cuidam de slimes em uma fazenda interplanetária, explorando um mundo colorido."
     },
     {
         "imagem": "img/sea.webp",
@@ -96,7 +129,8 @@
         "pecas": "Um disco contendo o jogo Sea of Thieves",
         "class": "+16",
         "preco": "R$90,00",
-        "tipo": "console"
+        "tipo": "console",
+        "intro": "Sea of Thieves é um jogo multiplayer de ação onde jogadores exploram o oceano como piratas, buscando tesouros e enfrentando desafios e batalhas navais."
     },
     {
         "imagem": "img/party.webp",
@@ -105,6 +139,7 @@
         "pecas": "Um disco contendo o jogo Party Animals",
         "class": "Livre",
         "preco": "R$105,00",
-        "tipo": "console"
+        "tipo": "console",
+        "intro": "Party Animals é um jogo de festa multiplayer onde jogadores controlam animais fofos e competem em minijogos divertidos."
     }
 ]

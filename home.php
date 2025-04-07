@@ -34,8 +34,9 @@
                 foreach($json as $brinquedo) {
                     if ($brinquedo->tipo == "fisico") {
                         echo "<section>";
-                        echo "<img src='".$brinquedo->imagem."'>";
                         echo "<h2>".$brinquedo->nome."</h2>";
+                        echo "<img src='".$brinquedo->imagem."'>";
+                        echo "<p style='text-align: justify;'>".$brinquedo->intro."</p>";
                         echo "</section>";
                     }
                 }
@@ -46,8 +47,9 @@
                 foreach($json as $brinquedo) {
                     if ($brinquedo->tipo == "console") {
                         echo "<section>";
-                        echo "<img src='".$brinquedo->imagem."'>";
                         echo "<h2>".$brinquedo->nome."</h2>";
+                        echo "<img src='".$brinquedo->imagem."'>";
+                        echo "<p style='text-align: justify;'>".$brinquedo->intro."</p>";
                         echo "</section>";
                     }
                 }

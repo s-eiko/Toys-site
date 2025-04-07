@@ -38,6 +38,11 @@
                     echo "<p>Contém: ".$brinquedo->pecas."</p>";
                     echo "<p>Classificação indicativa: ".$brinquedo->class."</p>";
                     echo "<p><span>".$brinquedo->preco."</span></p>";
+                    echo "<div style='display: flex; flex-direction: row; padding: 0;'>";
+                    foreach($brinquedo->imgextra as $imagem) {
+                        echo "<img src='".$imagem."' style='height: 7rem; width: auto;'>";
+                    }
+                    echo "</div>";
                     echo "</div>";
                     echo "</section>";
                 }
